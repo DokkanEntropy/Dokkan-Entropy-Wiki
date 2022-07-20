@@ -23,7 +23,7 @@ Upon completing the Discord Authorization. You'll need to restore or create a bo
 
 
 **DISCLAIMER: With iOS 14 Apple introduced Local Network Permissions. If you're connecting your phone to your local machine (A PC/Laptop running on your home wifi) Then you will need to enable Local Netowork Access to the Entropy App on your phone. The switch can be found in the app Settings.**
-[**There is a local network bypass but it's advised to use this at your own risk**](./lnbypass/)
+[**There is a local network bypass but it's advised to use this at your own risk**]({{site.baseurl}}{{lnbypass}})
 
 ![**localnetoworkpng](/imgs/LocalNetwork.png)
 
@@ -33,7 +33,7 @@ Once the main menu loads you'll have a slew of options to customize your server.
 After choosing the port the program will give you an ip address and port number.
 
 Now on your idevice go to the Settings app, scroll down until you find Dokkan Entropy or Whatever name you've given the sideloaded app and select it then select Entropy PC settings. There you'll see two textfields labeled Hostname and Port.
-![wheresPCgif](/imgs/wheresPC.gif)
+!["wheresPCgif"](/imgs/wheresPC.gif)
 
 
 **DISCALIMER In the gif example above I am using the local network bypass mentioned earlier.**
