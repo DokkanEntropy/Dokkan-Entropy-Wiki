@@ -23,7 +23,7 @@ Upon completing the Discord Authorization. You'll need to restore or create a bo
 
 
 **DISCLAIMER: With iOS 14 Apple introduced Local Network Permissions. If you're connecting your phone to your local machine (A PC/Laptop running on your home wifi) Then you will need to enable Local Netowork Access to the Entropy App on your phone. The switch can be found in the app Settings.**
-[**There is a local network bypass but it's advised to use this at your own risk**]({{site.baseurl}}{{lnbypass}})
+[**There is a local network bypass but it's advised to use this at your own risk**]({{site.baseurl}}/{{lnbypass}}/)
 
 ![**localnetoworkpng](/imgs/LocalNetwork.png)
 
